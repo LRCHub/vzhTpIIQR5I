@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "優しさ - YASASHISA",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2026-02-19T07:24:16.807973Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "優しさ",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/01_優しさ_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "優しさ",
+      "artist": "森山直太朗",
+      "has_synced": true,
+      "path": "select/02_優しさ_森山直太朗.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "優しさ - YASASHISA",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/03_優しさ_-_YASASHISA_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "優しさ",
+      "artist": "藤井風",
+      "has_synced": true,
+      "path": "select/04_優しさ_藤井風.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "優しさ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_優しさ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "優しさ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_02_優しさ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "優しさ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_03_優しさ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "優しさ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_04_優しさ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "優しさ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_05_優しさ_藤井_風.txt"
+    }
+  ]
+}
