@@ -1,80 +1,48 @@
 {
   "version": 1,
-  "base_track": "優しさ - YASASHISA",
-  "base_artist": "Fujii Kaze",
-  "createdAt": "2026-02-19T07:24:16.807973Z",
+  "base_track": "やば。",
+  "base_artist": "藤井 風",
+  "createdAt": "2026-02-22T04:52:40.848827Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "優しさ",
+      "title": "やば。",
       "artist": "Fujii Kaze",
       "has_synced": true,
-      "path": "select/01_優しさ_Fujii_Kaze.lrc"
+      "path": "select/01_やば。_Fujii_Kaze.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "優しさ",
-      "artist": "森山直太朗",
+      "title": "やば。 - YABA",
+      "artist": "Fujii Kaze",
       "has_synced": true,
-      "path": "select/02_優しさ_森山直太朗.lrc"
+      "path": "select/02_やば。_-_YABA_Fujii_Kaze.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "優しさ - YASASHISA",
-      "artist": "Fujii Kaze",
+      "title": "04_やば…、興奮してきちゃった",
+      "artist": "ちょこうさぎ",
       "has_synced": true,
-      "path": "select/03_優しさ_-_YASASHISA_Fujii_Kaze.lrc"
+      "path": "select/03_04_やば...、興奮してきちゃった_ちょこうさぎ.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "優しさ",
-      "artist": "藤井風",
+      "title": "トラック5_やば、音声聴いてたらシたくなってきた（効果音無し）",
+      "artist": "ありがた屋",
       "has_synced": true,
-      "path": "select/04_優しさ_藤井風.lrc"
+      "path": "select/04_トラック5_やば、音声聴いてたらシたくなってきた(効果音無し)_ありがた屋.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "優しさ",
+      "title": "やば。",
       "artist": "藤井 風",
       "has_synced": false,
-      "path": "select/pl_01_優しさ_藤井_風.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "優しさ",
-      "artist": "藤井 風",
-      "has_synced": false,
-      "path": "select/pl_02_優しさ_藤井_風.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "優しさ",
-      "artist": "藤井 風",
-      "has_synced": false,
-      "path": "select/pl_03_優しさ_藤井_風.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "優しさ",
-      "artist": "藤井 風",
-      "has_synced": false,
-      "path": "select/pl_04_優しさ_藤井_風.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "優しさ",
-      "artist": "藤井 風",
-      "has_synced": false,
-      "path": "select/pl_05_優しさ_藤井_風.txt"
+      "path": "select/pl_01_やば。_藤井_風.txt"
     }
   ]
 }
